@@ -11,6 +11,6 @@ def biggest_in_list(num):
 print(biggest_in_list([10,20,30,40]))
 print(biggest_in_list([-20,-2,-1,-19]))
 print(biggest_in_list([-10,-20,0,-11]))
-print(biggest_in_list([0,2,3,4,10]))
+print(biggest_in_list([0,2,5,4,10]))
 print(biggest_in_list([]))
 
